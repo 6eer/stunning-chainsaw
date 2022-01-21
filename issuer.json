@@ -7,6 +7,7 @@
     "id": "https://6eer.github.io/stunning-chainsaw/issuer.json",
     "name": "6eer",
     "url": "https://github.com/6eer",
+    "introductionURL": "https://requestinspector.com/inspect/01fsyd88spzh7se4sw5994mnke",
     "publicKey": [
         {
             "id": "ecdsa-koblitz-pubkey:mnYEbg4uy4KSi4JCc7eYuprHEWX5hcBuk4",
